@@ -1,0 +1,21 @@
+# mvn build
+/target/
+
+# IDE
+/.classpath
+/.project
+/.idea
+/.settings
+
+# Spring Log
+*logfile.log
+*.log
+
+# testing
+/coverage
+
+# npm
+/build/static
+/node_modules
+/package-lock.json
+
